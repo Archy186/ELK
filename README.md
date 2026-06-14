@@ -21,3 +21,8 @@
 # Решение 
 <img width="945" height="671" alt="3-1" src="https://github.com/user-attachments/assets/18ec3a15-0898-4576-a0c4-bf1b3812afe9" />
 <img width="943" height="670" alt="3-2" src="https://github.com/user-attachments/assets/0c91930f-6cfe-44b4-9ead-3563e36360b5" />
+<img width="1362" height="592" alt="3-3" src="https://github.com/user-attachments/assets/7eaf5d29-23b8-4e99-b27a-c192238a8e03" />
+<img width="1366" height="594" alt="3-4" src="https://github.com/user-attachments/assets/ed0fa1ba-df7e-4e2b-ad5d-85c4146fb4c9" />
+<img width="1366" height="594" alt="3-5" src="https://github.com/user-attachments/assets/76fbb6b4-a676-42ac-887f-5b1b8c1e7fb0" />
+<img width="1366" height="592" alt="3-6" src="https://github.com/user-attachments/assets/d8825614-d5d2-4c5f-a063-53c8d14a7c91" />
+<img width="1366" height="584" alt="3-7" src="https://github.com/user-attachments/assets/888f65d8-d60f-4771-baff-132ded4f29f9" />
